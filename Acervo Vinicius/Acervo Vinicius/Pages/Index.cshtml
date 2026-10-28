@@ -1,0 +1,52 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <div>
+            <h2>Acervo Digital de Vinicius de Moraes</h2>
+            <p class="text-muted">Poesias, músicas e livros catalogados.</p>
+        </div>
+
+        <!-- Formulário que aciona o método OnPostInserirExemplo -->
+        <form method="post" asp-page-handler="InserirExemplo">
+            <button type="submit" class="btn btn-primary">
+                + Inserir Obra de Exemplo
+            </button>
+        </form>
+    </div>
+
+    @if (Model.ListaObras.Count == 0)
+    {
+        <div class="alert alert-info text-center py-4">
+            <h4>Nenhuma obra cadastrada ainda!</h4>
+            <p>Clique no botão acima para inserir sua primeira obra.</p>
+        </div>
+    }
+    else
+    {
+        <!-- Se tiver obras no banco, vamos exibi-las aqui! -->
+    }
+</div>
+<div class="row">
+    @foreach (var obra in Model.ListaObras)
+    {
+        <div class="col-md-4 mb-3">
+            <div class="card h-100 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">@obra.Titulo</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Ano: @obra.AnoPublicacao</h6>
+                    <p class="card-text">@obra.Descricao</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

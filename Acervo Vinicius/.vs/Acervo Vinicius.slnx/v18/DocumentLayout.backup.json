@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32F2E677-A263-51AE-94CE-0EBCF0245F3C}|Acervo Vinicius\\Acervo Vinicius.csproj|c:\\users\\vit\u00F3ria solange\\onedrive\\\u00E1rea de trabalho\\acervo digital de vinicius de moraes\\acervo vinicius\\acervo vinicius\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32F2E677-A263-51AE-94CE-0EBCF0245F3C}|Acervo Vinicius\\Acervo Vinicius.csproj|solutionrelative:acervo vinicius\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F2E677-A263-51AE-94CE-0EBCF0245F3C}|Acervo Vinicius\\Acervo Vinicius.csproj|c:\\users\\vit\u00F3ria solange\\onedrive\\\u00E1rea de trabalho\\acervo digital de vinicius de moraes\\acervo vinicius\\acervo vinicius\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F2E677-A263-51AE-94CE-0EBCF0245F3C}|Acervo Vinicius\\Acervo Vinicius.csproj|solutionrelative:acervo vinicius\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F2E677-A263-51AE-94CE-0EBCF0245F3C}|Acervo Vinicius\\Acervo Vinicius.csproj|c:\\users\\vit\u00F3ria solange\\onedrive\\\u00E1rea de trabalho\\acervo digital de vinicius de moraes\\acervo vinicius\\acervo vinicius\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F2E677-A263-51AE-94CE-0EBCF0245F3C}|Acervo Vinicius\\Acervo Vinicius.csproj|solutionrelative:acervo vinicius\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F2E677-A263-51AE-94CE-0EBCF0245F3C}|Acervo Vinicius\\Acervo Vinicius.csproj|c:\\users\\vit\u00F3ria solange\\onedrive\\\u00E1rea de trabalho\\acervo digital de vinicius de moraes\\acervo vinicius\\acervo vinicius\\models\\avaliacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F2E677-A263-51AE-94CE-0EBCF0245F3C}|Acervo Vinicius\\Acervo Vinicius.csproj|solutionrelative:acervo vinicius\\models\\avaliacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F2E677-A263-51AE-94CE-0EBCF0245F3C}|Acervo Vinicius\\Acervo Vinicius.csproj|c:\\users\\vit\u00F3ria solange\\onedrive\\\u00E1rea de trabalho\\acervo digital de vinicius de moraes\\acervo vinicius\\acervo vinicius\\data\\obradb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F2E677-A263-51AE-94CE-0EBCF0245F3C}|Acervo Vinicius\\Acervo Vinicius.csproj|solutionrelative:acervo vinicius\\data\\obradb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F2E677-A263-51AE-94CE-0EBCF0245F3C}|Acervo Vinicius\\Acervo Vinicius.csproj|c:\\users\\vit\u00F3ria solange\\onedrive\\\u00E1rea de trabalho\\acervo digital de vinicius de moraes\\acervo vinicius\\acervo vinicius\\data\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F2E677-A263-51AE-94CE-0EBCF0245F3C}|Acervo Vinicius\\Acervo Vinicius.csproj|solutionrelative:acervo vinicius\\data\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F2E677-A263-51AE-94CE-0EBCF0245F3C}|Acervo Vinicius\\Acervo Vinicius.csproj|c:\\users\\vit\u00F3ria solange\\onedrive\\\u00E1rea de trabalho\\acervo digital de vinicius de moraes\\acervo vinicius\\acervo vinicius\\models\\obras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F2E677-A263-51AE-94CE-0EBCF0245F3C}|Acervo Vinicius\\Acervo Vinicius.csproj|solutionrelative:acervo vinicius\\models\\obras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\Acervo Vinicius\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Acervo Vinicius\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\Acervo Vinicius\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Acervo Vinicius\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:51:44.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\Acervo Vinicius\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Acervo Vinicius\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\Acervo Vinicius\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Acervo Vinicius\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-28T16:31:21.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\Acervo Vinicius\\Data\\Conexao.cs",
+              "RelativeDocumentMoniker": "Acervo Vinicius\\Data\\Conexao.cs",
+              "ToolTip": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\Acervo Vinicius\\Data\\Conexao.cs",
+              "RelativeToolTip": "Acervo Vinicius\\Data\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:59:12.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\Acervo Vinicius\\Program.cs",
+              "RelativeDocumentMoniker": "Acervo Vinicius\\Program.cs",
+              "ToolTip": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\Acervo Vinicius\\Program.cs",
+              "RelativeToolTip": "Acervo Vinicius\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:27:03.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Obras.cs",
+              "DocumentMoniker": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\Acervo Vinicius\\Models\\Obras.cs",
+              "RelativeDocumentMoniker": "Acervo Vinicius\\Models\\Obras.cs",
+              "ToolTip": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\Acervo Vinicius\\Models\\Obras.cs",
+              "RelativeToolTip": "Acervo Vinicius\\Models\\Obras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:55:00.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObraDB.cs",
+              "DocumentMoniker": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\Acervo Vinicius\\Data\\ObraDB.cs",
+              "RelativeDocumentMoniker": "Acervo Vinicius\\Data\\ObraDB.cs",
+              "ToolTip": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\Acervo Vinicius\\Data\\ObraDB.cs",
+              "RelativeToolTip": "Acervo Vinicius\\Data\\ObraDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:51:10.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Avaliacoes.cs",
+              "DocumentMoniker": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\Acervo Vinicius\\Models\\Avaliacoes.cs",
+              "RelativeDocumentMoniker": "Acervo Vinicius\\Models\\Avaliacoes.cs",
+              "ToolTip": "C:\\Users\\Vit\u00F3ria Solange\\OneDrive\\\u00C1rea de Trabalho\\Acervo Digital de Vinicius de Moraes\\Acervo Vinicius\\Acervo Vinicius\\Models\\Avaliacoes.cs",
+              "RelativeToolTip": "Acervo Vinicius\\Models\\Avaliacoes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:16:55.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
